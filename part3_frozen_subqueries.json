@@ -1,0 +1,185 @@
+{
+  "test_set_hash": "f253b68e91ac",
+  "frozen": {
+    "T01": {
+      "subs": [
+        "How much revenue did Uber report for fiscal year 2021?"
+      ],
+      "split_error": null
+    },
+    "T02": {
+      "subs": [
+        "What was Lyft's revenue in 2022?"
+      ],
+      "split_error": null
+    },
+    "T03": {
+      "subs": [
+        "What does Lyft say could happen if its drivers were treated as employees instead of contractors?"
+      ],
+      "split_error": null
+    },
+    "T04": {
+      "subs": [
+        "How can I check a user's input before my OpenAI agent acts on it?"
+      ],
+      "split_error": null
+    },
+    "T05": {
+      "subs": [
+        "How can one OpenAI agent pass the conversation over to a specialist agent?"
+      ],
+      "split_error": null
+    },
+    "T06": {
+      "subs": [
+        "How do I let an agent built with the Agents SDK call my own Python function?"
+      ],
+      "split_error": null
+    },
+    "T07": {
+      "subs": [
+        "Who won the most recent FIFA World Cup?"
+      ],
+      "split_error": null
+    },
+    "T08": {
+      "subs": [
+        "Is Gemini or Llama better for writing code?"
+      ],
+      "split_error": null
+    },
+    "T09": {
+      "subs": [
+        "Will it rain in Seattle tomorrow?"
+      ],
+      "split_error": null
+    },
+    "T10": {
+      "subs": [
+        "What was Uber's 2021 revenue?",
+        "What was Lyft's 2022 revenue?"
+      ],
+      "split_error": null
+    },
+    "T11": {
+      "subs": [
+        "What is an agent?",
+        "How do guardrails work in the Agents SDK?"
+      ],
+      "split_error": null
+    },
+    "T12": {
+      "subs": [
+        "What was Uber's 2021 net loss?",
+        "Which AI models were released this month?"
+      ],
+      "split_error": null
+    },
+    "T13": {
+      "subs": [
+        "How do I add tools to an OpenAI agent?",
+        "What is Lyft's current stock price?"
+      ],
+      "split_error": null
+    },
+    "T14": {
+      "subs": [
+        "What was Uber's revenue in 2021?",
+        "What is an OpenAI agent?",
+        "What is today's top AI news?"
+      ],
+      "split_error": null
+    },
+    "T15": {
+      "subs": [
+        "What was Lyft's revenue in 2021?"
+      ],
+      "split_error": null
+    },
+    "T15b": {
+      "subs": [
+        "What was Lyft's revenue in 2024?"
+      ],
+      "split_error": null
+    },
+    "T16": {
+      "subs": [
+        "Tell me about agents"
+      ],
+      "split_error": null
+    },
+    "T17": {
+      "subs": [
+        "What is Uber's revenue?"
+      ],
+      "split_error": null
+    },
+    "T18": {
+      "subs": [
+        "How much does the OpenAI API cost?"
+      ],
+      "split_error": null
+    },
+    "T19": {
+      "subs": [
+        "Compare Uber and Lyft"
+      ],
+      "split_error": null
+    },
+    "T20": {
+      "subs": [
+        "What's the weather in Paris?"
+      ],
+      "split_error": null
+    },
+    "T21": {
+      "subs": [
+        "What was Uber's 2021 revenue?"
+      ],
+      "split_error": null
+    },
+    "T22": {
+      "subs": [
+        "Who is the president of France?"
+      ],
+      "split_error": null
+    },
+    "T23": {
+      "subs": [
+        "What is a handoff in the Agents SDK?"
+      ],
+      "split_error": null
+    },
+    "T24": {
+      "subs": [
+        "What are Uber's 2021 risk factors?"
+      ],
+      "split_error": null
+    },
+    "T25": {
+      "subs": [
+        "What is an agent?"
+      ],
+      "split_error": null
+    },
+    "T26": {
+      "subs": [
+        ""
+      ],
+      "split_error": "unparseable split output: '{\"subQuestions\":[]}'"
+    },
+    "T27": {
+      "subs": [
+        "asdkjh qwe ???"
+      ],
+      "split_error": null
+    },
+    "T28": {
+      "subs": [
+        "¿Cuáles fueron los ingresos de Uber en 2021?"
+      ],
+      "split_error": null
+    }
+  }
+}

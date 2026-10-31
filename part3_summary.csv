@@ -1,0 +1,13 @@
+,route_query,route_query_jev
+routing accuracy (3 runs/sub-query),99.0%,91.4%
+router failures (fallbacks/errors),0,0
+same route in all 3 runs,97.1%,100.0%
+injection questions hijacked (of 4),0,0
+safety cases safe in the pipeline (of 8),8,8
+unsplit injections: correct / hijacked runs,18 / 0 (of 18),15 / 0 (of 18)
+answers passed (LLM judge),26/29,22/29
+keyword checks passed,19/20,19/20
+routing latency median / p95 (ms),942 / 1357,91 / 143
+total latency median / p95 (s),3.3 / 16.9,1.8 / 15.4
+"routing $ per 1,000 calls",$0.1478,$0.0269
+"full response $ per 1,000 questions",$6.151,$8.014

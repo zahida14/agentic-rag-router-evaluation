@@ -1,0 +1,9 @@
+openai
+qdrant_client
+transformers==4.48.0
+einops
+python-dotenv
+nest_asyncio
+typesafe-sdk
+pandas
+faiss-cpu
